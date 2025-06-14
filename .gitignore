@@ -1,0 +1,53 @@
+## Ignore build results
+bin/
+obj/
+
+## Migrations
+Migrations/
+
+## Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore ASP.NET Core secrets and settings
+appsettings.Development.json
+appsettings.Local.json
+appsettings.json
+secrets.json
+
+## Ignore Rider/VSCode settings
+.vs/
+.vscode/
+.idea/
+
+## Ignore publish directory
+publish/
+
+## Ignore Mac and Linux file system stuff
+.DS_Store
+*.swp
+*.swo
+
+## Ignore logs
+*.log
+
+## Ignore database migration dumps (if any)
+*.sql
+*.db
+
+## Ignore environment-specific files
+.env
+.env.*
+
+# Ignore secret keys file
+tools/apisecrets.py
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+tools/__pycache__/
+
+# Ignore generated CSV files
+attempt_log.csv
