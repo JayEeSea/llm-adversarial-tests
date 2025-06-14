@@ -92,6 +92,8 @@ python tools/submit_adversarial_attack.py
 
 Results will be saved under `tools/attempt_log.csv`.
 
+> NOTE: You will need to edit `TestPromptAgainstModel()` in `utils.py` as the code after the comment `# Post to Tracker` is used to post raw results to an internal tracker and will generate errors when run if not removed.
+
 ---
 
 ## Interpreting Results
