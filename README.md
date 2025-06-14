@@ -38,9 +38,10 @@ Additional models will be added over time.
 │   ├── apisecrets.py                   # API key storage (ignored by Git)
 │   ├── config.py                       # Model configurations and parameters
 │   ├── prompts.csv                     # Prompt list for batch testing
-│   ├── submit\_adversarial\_attack.py  # Main execution script
+│   ├── submit_adversarial_attempt.py   # Main execution script
 │   ├── utils.py                        # Helper functions
 ├── .gitignore
+├── DISCLAIMER.md
 └── README.md
 
 ````
