@@ -4,7 +4,7 @@ This repository contains structured adversarial test cases and prompt evaluation
 
 ---
 
-## 🔍 Overview
+## Overview
 
 The repository includes:
 - **Prompt libraries** categorised by use case (e.g. disinformation, prompt injection, ethics, policy framing).
@@ -22,11 +22,10 @@ Additional models will be added over time.
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```
 
-.
 ├── results/
 │   └── openai/
 │       ├── gpt-3.5-turbo/
@@ -48,7 +47,7 @@ Additional models will be added over time.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
