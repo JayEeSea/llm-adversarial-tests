@@ -32,7 +32,7 @@ Additional models will be added over time.
 │       ├── gpt-4.1/
 │       ├── gpt-4o/
 │       └── o4-mini/
-├── test\_cases/
+├── test_cases/
 │   └── (Prompt libraries by category)
 ├── tools/
 │   ├── apisecrets.py                   # API key storage (ignored by Git)
