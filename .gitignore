@@ -51,3 +51,6 @@ tools/__pycache__/
 
 # Ignore generated CSV files
 attempt_log.csv
+
+# Ignore current active prompts file, an example file is provided
+tools/prompts.csv
